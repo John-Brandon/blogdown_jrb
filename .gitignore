@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+public/   # if using Netlify
+.DS_Store # if a windows user, Thumbs.db instead
