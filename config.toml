@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "John Brandon"
+  name = "John R. Brandon, Ph.D."
   role = "Biostatisics"
 
   # Organizations/Affiliations.
@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Independent Consultant", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "JB_mug.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jbrandon@gmail.com"
   address = "Pacifica, California, USA"
 #  office_hours = "Monday 10:00 to 13:00 or email for appointment"
