@@ -1,7 +1,7 @@
 #baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://jbrandon.netlify.com/"
-title = "John R. Brandon"
-copyright = "&copy; 2017 Your Name"
+title = "John Brandon, PhD"
+copyright = "&copy; 2017 John R. Brandon, PhD"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -40,8 +40,8 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "John R. Brandon, Ph.D."
-  role = "Biostatisics"
+  name = "John Brandon"
+  role = "Computational Statistics and Fishery Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -239,7 +239,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
@@ -252,10 +252,10 @@ defaultContentLanguageInSubdir = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
