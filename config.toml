@@ -41,7 +41,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "John Brandon"
-  role = "Computational Statistics and Fishery Science"
+  role = "Computational Statistics and Fisheries Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.

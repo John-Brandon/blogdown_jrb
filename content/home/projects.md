@@ -29,8 +29,12 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Hello"
+  tag = ".hello"
+
+[[filter]]
+  name = "Twitter Bots"
+  tag = ".twitter-bots"  
 
 [[filter]]
   name = "Other"

@@ -22,9 +22,9 @@ publication = "In *Journal of Cetacean Research and Management*"
 publication_short = "In *J. Cetacean Res. Manage.*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "The performance of the Gray Whale SLA is evaluated based on an operating model conditioned on available information for the eastern North Pacific stock of gray whales including: survey estimates of 1+ abundance; calf counts; strandings data; and the extent of sea-ice in the feeding grounds in the Bering Sea in the early season. Multiple scenarios are considered in the analyses to explore the impact of different sources of environmental variation, including scenarios in which future environmental forcing and episodic events are driven by the relationships between reproductive success and survival to sea ice. A variety of sources of uncertainty are considered, including parameter uncertainty, the uncertainty about the relationship between the extent of sea-ice and population dynamics, and observation error. The impact of these sources of uncertainty on the performance of the Gray Whale SLA is small. For all scenarios considered in the simulations, application of the SLA results in the stock being at or near carrying capacity at the end of a 92 year projection period for which sea-ice cover forecasts are available, while still satisfying the needs of aboriginal whalers."
 
-abstract_short = ""
+abstract_short = "The performance of the Gray Whale SLA is evaluated based on an operating model conditioned on available information for the eastern North Pacific stock of gray whales including: survey estimates of 1+ abundance; calf counts; strandings data; and the extent of sea-ice in the feeding grounds in the Bering Sea in the early season. Multiple scenarios are considered in the analyses to explore the impact of different sources of environmental variation, including scenarios in which future environmental forcing and episodic events are driven by the relationships between reproductive success and survival to sea ice. A variety of sources of uncertainty are considered, including parameter uncertainty, the uncertainty about the relationship between the extent of sea-ice and population dynamics, and observation error. The impact of these sources of uncertainty on the performance of the Gray Whale SLA is small. For all scenarios considered in the simulations, application of the SLA results in the stock being at or near carrying capacity at the end of a 92 year projection period for which sea-ice cover forecasts are available, while still satisfying the needs of aboriginal whalers."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -66,5 +66,4 @@ caption = ""
 # My caption :smile:
 
 +++
-
 

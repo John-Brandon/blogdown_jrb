@@ -1,7 +1,7 @@
 ---
 title: "Hello R Markdown"
 author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
+date: 2017-12-31T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
@@ -29,6 +29,17 @@ fit
 ## Coefficients:
 ## (Intercept)        speed  
 ##     -17.579        3.932</code></pre>
+</div>
+<div id="test-some-code" class="section level1">
+<h1>Test some code</h1>
+<p>R Markdown files can be edited, and then upon saving, <code>knitr</code> will render the file into an <code>html</code> version for posting to the web.</p>
+<pre class="r"><code>library(tidyverse)
+xx = rnorm(n = 1e3, mean = 0, sd = 0.5)
+yy = rnorm(n = 1e3, mean = 2, sd = 4)
+dat = data.frame(xx, yy)
+dat %&gt;% ggplot(aes(x = xx, y = yy)) +
+  geom_point(alpha = 0.4)</code></pre>
+<p><img src="/post/2015-07-23-r-rmarkdown_files/figure-html/jrb_code-1.png" width="672" /></p>
 </div>
 <div id="including-plots" class="section level1">
 <h1>Including Plots</h1>

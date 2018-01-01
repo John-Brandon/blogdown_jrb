@@ -1,7 +1,7 @@
 ---
 title: "Hello R Markdown"
 author: "Frida Gomam"
-date: 2015-07-23T21:13:14-05:00
+date: 2017-12-31T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
@@ -20,6 +20,19 @@ You can embed an R code chunk like this:
 summary(cars)
 fit <- lm(dist ~ speed, data = cars)
 fit
+```
+
+# Test some code
+
+R Markdown files can be edited, and then upon saving, `knitr` will render the file into an `html` version for posting to the web. 
+
+```{r jrb_code, message=FALSE}
+library(tidyverse)
+xx = rnorm(n = 1e3, mean = 0, sd = 0.5)
+yy = rnorm(n = 1e3, mean = 2, sd = 4)
+dat = data.frame(xx, yy)
+dat %>% ggplot(aes(x = xx, y = yy)) +
+  geom_point(alpha = 0.4)
 ```
 
 # Including Plots
