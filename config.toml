@@ -1,7 +1,7 @@
 #baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://jbrandon.netlify.com/"
 title = "John Brandon, PhD"
-copyright = "&copy; 2017 John R. Brandon, PhD"
+copyright = "&copy; 2018 John R. Brandon, PhD"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -209,6 +209,11 @@ defaultContentLanguageInSubdir = false
     link = "mailto:jbrandon@gmail.com"
 
   [[params.social]]
+		icon = "linkedin"
+		icon_pack = "fa"
+		link = "//www.linkedin.com/in/john-brandon"
+			
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/BeachPooBot"
@@ -240,7 +245,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 2
+  weight = 4
 
 [[menu.main]]
   name = "Posts"
@@ -250,7 +255,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 2
 
 #[[menu.main]]
 #  name = "Teaching"
