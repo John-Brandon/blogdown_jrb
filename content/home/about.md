@@ -5,21 +5,24 @@ active = true
 date = "2017-12-27T00:00:00"
 
 # Order that this section will appear in.
-weight = 5
+weight = 3
 
 # List your academic interests.
 [interests]
   interests = [
     "Mathematical Modeling",
     "Computational Statistics",
+    "Natural Resources",    
     "Management Strategy Evaluation",
-    "Simulation and Quantitative Risk Assessment" 
+    "Simulation and Quantitative Risk Assessment",    
+    "Fly Fishing",
+    "Surfing",    
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Bayesian modeling of population dynamics"
-  institution = "University of Washington, School of Aquatic and Fishery Sciences, Seattle, USA"
+  course = "PhD in Bayesian modeling of population dynamics and management strategy evaluation"
+  institution = "University of Washington, School of Aquatic and Fishery Sciences, Seattle"
   year = 2009
 
 [[education.courses]]
@@ -32,12 +35,4 @@ weight = 5
 # Biography
 
 John provides modeling and statistical support as an independent consultant to his clients, including: a National
-Science Foundation research center initiative; the International Whaling Commision, and; The Makah Tribal Council. This work involves evaluating the performance of alternative management strategies and catch limit algorithms using computational statistics. He also prepares testimony as an expert witness under federal judicial oversight of these applications. Previously, he worked as a staff consultant, leading the development of survey designs based on statistical power analysis. Those studies successfully informed operational management decisions for foreign and multinational corporate clients, under multi-billion dollar natural resource development projects. 
-
-Computational Statistics :chart_with_upwards_trend: and mathematical modeling of population dynamics :whale:
-
-<a href="url">Place holder URL.</a> 
-
-I :heart: Academic :smile:
-
-[I'm a markdown link to Google.com](www.google.com)
+Science Foundation research center initiative; the International Whaling Commision, and; The Makah Tribal Council. This work involves evaluating the performance of alternative fisheries management strategies (catch limit algorithms, effort allocation for survey coverage, *etc.*) using population dynamics models and simulation modeling of feedback systems. He also prepares testimony as an expert witness under U.S. federal judicial oversight of these applications. Previously, he worked as a staff environmental consultant, leading the development of survey designs based on statistical power analysis. Those studies successfully informed operational management decisions for foreign and multinational corporate clients embarked on large scale natural resource development projects.   
