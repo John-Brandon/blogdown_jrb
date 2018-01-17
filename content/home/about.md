@@ -10,13 +10,15 @@ weight = 3
 # List your academic interests.
 [interests]
   interests = [
+    "Computational Statistics",  
+    "Simulation and Quantitative Risk Assessment",
+    "Bayesian Inference",
     "Mathematical Modeling",
-    "Computational Statistics",
     "Natural Resources",    
     "Management Strategy Evaluation",
-    "Simulation and Quantitative Risk Assessment",    
-    "Fly Fishing",
-    "Surfing",    
+    "Fishing",
+    "Hunting",
+    "Surfing"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -34,5 +36,5 @@ weight = 3
 
 # Biography
 
-John provides modeling and statistical support as an independent consultant to his clients, including: a National
-Science Foundation research center initiative; the International Whaling Commision, and; The Makah Tribal Council. This work involves evaluating the performance of alternative fisheries management strategies (catch limit algorithms, effort allocation for survey coverage, *etc.*) using population dynamics models and simulation modeling of feedback systems. He also prepares testimony as an expert witness under U.S. federal judicial oversight of these applications. Previously, he worked as a staff environmental consultant, leading the development of survey designs based on statistical power analysis. Those studies successfully informed operational management decisions for foreign and multinational corporate clients embarked on large scale natural resource development projects.   
+John provides modeling and statistical support as an independent consultant to his clients, including: a U.S. National
+Science Foundation research center initiative; the International Whaling Commision, and; The Makah Tribal Council. This work involves evaluating the performance of alternative fisheries management strategies (*e.g.* catch limit algorithms) using population dynamics models and simulations of feedback systems. He also prepares testimony as an expert witness under U.S. federal judicial oversight of these applications. Previously, he worked as a staff environmental consultant, leading the development of survey designs based on statistical power analysis. Those studies successfully informed operational management decisions for foreign and multinational corporate clients embarked on large scale natural resource development projects.   
