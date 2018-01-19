@@ -5,7 +5,7 @@ active = true
 date = "2017-12-27T00:00:00"
 
 # Order that this section will appear in.
-weight = 3
+weight = 2
 
 # List your academic interests.
 [interests]
@@ -14,7 +14,6 @@ weight = 3
     "Simulation and Quantitative Risk Assessment",
     "Bayesian Inference",
     "Mathematical Modeling",
-    "Natural Resources",    
     "Management Strategy Evaluation",
     "Fishing",
     "Hunting",
