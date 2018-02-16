@@ -27,7 +27,7 @@ weight = 2
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Biology"
+  course = "BSc in Ecology"
   institution = "University of California, San Diego"
   year = 1998
 
