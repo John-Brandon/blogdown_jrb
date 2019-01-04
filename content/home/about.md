@@ -15,8 +15,10 @@ weight = 2
     "Bayesian Inference",
     "Mathematical Modeling",
     "Management Strategy Evaluation",
+    "Operations Research",
     "Fishing",
     "Hunting",
+    "Soccer",
     "Surfing"
   ]
 
